@@ -3,12 +3,20 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=200&color=EBF724&width=435&lines=Content+Creator;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" /></a></p>
 
-
+👨‍💻 Learning to code awesome stuffs
+⚙️ Solving problems daily
+👀 Check out this <a href="https://www.sagnikmukherjee.tech/">Portfolio</a> to know more
 
 <h3 align="left">Let's get connected 🤝</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sagnikmukherjee/">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40px" width="40px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30px" width="30px"/>
+  </a>
+  <a href="https://www.youtube.com/technotrove/">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="30px" width="40px"/>
+  </a>
+  <a href="https://www.instagram.com/technotrove">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" height="30px" width="30px"/>
   </a>
 </p>
 
