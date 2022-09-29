@@ -3,9 +3,9 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=200&color=EBF724&width=435&lines=Content+Creator;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" /></a></p>
 
-👨‍💻 Learning to code awesome stuffs
-⚙️ Solving problems daily
-👀 Check out this <a href="https://www.sagnikmukherjee.tech/">Portfolio</a> to know more
+👨‍💻 Learning to code awesome stuffs <br>
+⚙️ Solving problems daily <br>
+👀 Check out my <a href="https://www.sagnikmukherjee.tech/">Portfolio</a> to know more
 
 <h3 align="left">Let's get connected 🤝</h3>
 <p align="left">
@@ -17,6 +17,9 @@
   </a>
   <a href="https://www.instagram.com/technotrove">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" height="30px" width="30px"/>
+  </a>
+  <a href="https://www.facebook.com/technotrove">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1365px-Facebook_f_logo_%282019%29.svg.png" height="30px" width="30px"/>
   </a>
 </p>
 
