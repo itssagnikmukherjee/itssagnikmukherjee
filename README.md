@@ -1,21 +1,15 @@
-<h1 align="center">Hey👋 <a href="https://www.linkedin.com/in/sagnikmukherjee/">Sagnik Mukherjee</a> here,</h1>
-<h3 align="center">Content Creator || Full Stack Developer</h3>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<h1 align="center"><font family="outfit">Hey👋 <a href="https://www.linkedin.com/in/sagnikmukherjee/">Sagnik Mukherjee</a> here,</font></h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=200&color=EBF724&width=435&lines=Content+Creator;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" /></a></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itssagnikmukherjee&label=Profile%20views&color=0e75b6&style=flat" alt="itssagnikmukherjee" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itssagnikmukherjee" alt="itssagnikmukherjee" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
-
-- 👨‍💻 All of my projects are available at [sagnikmukherjee.tech](sagnikmukherjee.tech)
-
-- 💬 Ask me about **WEB DEVELOPMENT**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's get connected 🤝</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sagnikmukherjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagnikmukherjee" height="30" width="40" /></a>
-<a href="https://instagram.com/technotrove" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="technotrove" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/technotrove" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="technotrove" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sagnikmukherjee/">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40px" width="40px"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
