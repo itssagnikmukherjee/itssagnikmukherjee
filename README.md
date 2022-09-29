@@ -5,11 +5,23 @@
 
 <img src="https://user-images.githubusercontent.com/83669035/193001694-7ad6d7bf-05ee-44ab-8374-90c16dad7689.png" height="400px" width="400px" align="right">
 
-
+<h3>
 👨‍💻 Learning to code awesome stuffs <br>
 ⚙️ Solving problems daily <br>
-👀 Check out my <a href="https://www.sagnikmukherjee.tech/">Portfolio</a> to know more
+👀 Check out my <a href="https://www.sagnikmukherjee.tech/">Portfolio</a> to know more </h3>
 <br>
+
+<p align="left">
+      <a href="https://www.youtube.com/c/technotrove?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCHYT8CbDk-oCBaVdyjIePNQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/c/fknight">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCHYT8CbDk-oCBaVdyjIePNQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> <br>
+      <a href="https://github.com/ForrestKnight?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+
 <h3 align="left">Let's get connected 🤝</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sagnikmukherjee/">
@@ -27,8 +39,3 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itssagnikmukherjee&show_icons=true&locale=en&layout=compact" alt="itssagnikmukherjee" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itssagnikmukherjee&show_icons=true&locale=en" alt="itssagnikmukherjee" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itssagnikmukherjee&" alt="itssagnikmukherjee" /></p>
