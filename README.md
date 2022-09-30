@@ -26,21 +26,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itssagnikmukherjee&label=Profile%20views&color=0e75b6&style=flat" alt="sagnik-mukherjee" /> </p>
 
-<h3 align="left">Let's get connected 🤝</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sagnikmukherjee/">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30px" width="30px" style="padding:100px">
-  </a>
-  <a href="https://www.youtube.com/technotrove/">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="30px" width="40px"/>
-  </a>
-  <a href="https://www.instagram.com/technotrove">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" height="30px" width="30px"/>
-  </a>
-  <a href="https://www.facebook.com/technotrove">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1365px-Facebook_f_logo_%282019%29.svg.png" height="30px" width="30px"/>
-  </a>
-</p>
+
+### Let's get connected 🤝
+
+<img align="left" alt="youtube" width="40px" height="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/83669035/193305703-404e18ae-7198-4473-8654-cef16349eb7a.png"/>
+<img align="left" alt="linkedin" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"/>
+<img align="left" alt="instagram" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png"/>
+<img align="left" alt="facebook" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1365px-Facebook_f_logo_%282019%29.svg.png"/>
+<br />
+
 
 <table border="0">
   <tr>
