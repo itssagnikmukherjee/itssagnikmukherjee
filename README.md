@@ -8,7 +8,7 @@
 <h3>
 👨‍💻 Learning to code awesome stuffs <br>
 ⚙️ Solving problems daily <br>
-👀 Check out my <a href="https://www.sagnikmukherjee.tech/">Portfolio</a> to know more </h3>
+👀 Check out my <a href="https://www.sagnikmukherjee.tech/">Portfolio</a> here </h3>
 <br>
 
 <p align="left">
