@@ -48,7 +48,7 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itssagnikmukherjee&show_icons=true&theme=dark&locale=en&layout=compact" alt="" /></td>
   </tr>
       <tr>
-            <td></td>
+            <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itssagnikmukherjee&theme=dark"></td>
             <td></td>
       </tr>
 </table>
