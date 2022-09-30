@@ -24,6 +24,8 @@
   
    </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itssagnikmukherjee&label=Profile%20views&color=0e75b6&style=flat" alt="sagnik-mukherjee" /> </p>
+
 <h3 align="left">Let's get connected 🤝</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sagnikmukherjee/">
@@ -40,4 +42,9 @@
   </a>
 </p>
 
-
+<table border="0">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=itssagnikmukherjee&show_icons=true&theme=dark&locale=en" alt="" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itssagnikmukherjee&show_icons=true&theme=dark&locale=en&layout=compact" alt="" /></td>
+  </tr>
+</table>
