@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/83669035/193289351-ab060bd0-67a8-4315-acfc-ecbab2eccd4e.png" height="500px" width="500px" align="right">
 
 <h3>
-👨‍💻 Learning to code awesome stuffs <br>
+👨‍💻 Learning to code stuffs <br>
 ⚙️ Solving problems daily <br>
 👀 Check out my <a href="https://www.sagnikmukherjee.tech/">Portfolio</a> here </h3>
 <br>
