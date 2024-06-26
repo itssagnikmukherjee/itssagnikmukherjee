@@ -5,11 +5,6 @@
 
 <img src="https://user-images.githubusercontent.com/83669035/193289351-ab060bd0-67a8-4315-acfc-ecbab2eccd4e.png" align="right" style="height:40vw;width:40vw;">
 
-<h3>
-👨‍💻 Learning to code stuffs <br>
-⚙️ Solving problems daily <br>
-👀 Check out my <a href="https://www.sagnikmukherjee.tech/">Portfolio</a> here </h3>
-<br>
 
 <p align="left">
       <a href="https://www.youtube.com/c/technotrove?sub_confirmation=1">
