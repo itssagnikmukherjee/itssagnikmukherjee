@@ -35,9 +35,8 @@
 <p>
 <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
  <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
- <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
- <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
  <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+      
  </p>
  
  <p>
@@ -47,10 +46,8 @@
 <img alt="mongoDB" src="https://img.shields.io/badge/mongodb-%2347A248.svg?logo=mongodb&logoColor=white">
 <img alt="express" src="https://img.shields.io/badge/express-%23000000.svg?logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/angular-%23DD0031.svg?&logo=angular&logoColor=white">
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
- 
  <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
  <img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white">
    
@@ -58,12 +55,9 @@
 
 <p>
 <img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/jquery-%230769AD.svg?&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&logo=tailwind%20css&logoColor=white">
 <img src="https://img.shields.io/badge/sass-%23CC6699.svg?&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/dot--net-%23512BD4.svg?&logo=dot-net&logoColor=white">
-<img src="https://img.shields.io/badge/opencv-%235C3EE8.svg?&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/django-%23092E20.svg?&logo=django&logoColor=white">
+
 </p>
 
 
