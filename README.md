@@ -54,7 +54,6 @@
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&logo=tailwind%20css&logoColor=white">
 <img src="https://img.shields.io/badge/sass-%23CC6699.svg?&logo=sass&logoColor=white">
 
