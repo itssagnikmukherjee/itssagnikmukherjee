@@ -1,15 +1,13 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<h1 align="center"><font family="outfit">Hey👋 <a href="https://www.linkedin.com/in/sagnikmukherjee/">Sagnik Mukherjee</a> here,</font></h1>
+<h1 align="center"><font family="outfit">Hi there👋 <a href="https://www.linkedin.com/in/sagnikmukherjee/">Sagnik Mukherjee</a> this side,</font></h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=200&color=EBF724&width=435&lines=Native+Android+Dev;Content+Creator;Freelancer" alt="Typing SVG" /></a></p>
-
-<img src="https://user-images.githubusercontent.com/83669035/193289351-ab060bd0-67a8-4315-acfc-ecbab2eccd4e.png" align="right" style="height:40vw;width:40vw;">
 
 
 <p align="left">
       <a href="https://www.youtube.com/c/technotrove?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCHYT8CbDk-oCBaVdyjIePNQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
+      <a href="https://www.youtube.com/c/technotrove">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCHYT8CbDk-oCBaVdyjIePNQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> <br>
        
       
