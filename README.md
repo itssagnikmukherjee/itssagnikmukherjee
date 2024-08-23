@@ -20,13 +20,9 @@
       I'm a Computer Science student with a deep passion for Android development, Linux systems, and cutting-edge technologies. Currently, I'm in my third year of engineering, and I’ve been honing my skills in Kotlin and Jetpack Compose. My journey in tech started with a fascination for how things work under the hood, leading me to become a Linux enthusiast and a proficient Android developer.
 </p>
 
-### 🤝 Let's Connect
+## 🤝 Let's Connect
 
-<a href="https://www.youtube.com/c/TechnoTrove"><img align="left" alt="youtube" width="40px" height="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/83669035/193305703-404e18ae-7198-4473-8654-cef16349eb7a.png"/></a>
-<a href="https://www.linkedin.com/in/sagnikmukherjee/"><img align="left" alt="linkedin" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"/></a>
-<a href="https://www.instagram.com/technotrove/"><img align="left" alt="instagram" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png"/></a>
-<a href="https://www.facebook.com/TechnoTrove"><img align="left" alt="facebook" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1365px-Facebook_f_logo_%282019%29.svg.png"/></a>
-<br><br>
+
 
 ### Languages 💻
 
