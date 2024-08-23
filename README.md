@@ -9,18 +9,18 @@
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCHYT8CbDk-oCBaVdyjIePNQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/c/technotrove">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCHYT8CbDk-oCBaVdyjIePNQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> <br>
-       
-      
   
   <a href="https://github.com/itssagnikmukherjee?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/itssagnikmukherjee?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   
    </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itssagnikmukherjee&label=Profile%20views&color=0e75b6&style=flat" alt="sagnik-mukherjee" /> </p>
+## 🚀 About Me
+<p>
+      I'm a Computer Science student with a deep passion for Android development, Linux systems, and cutting-edge technologies. Currently, I'm in my third year of engineering, and I’ve been honing my skills in Kotlin and Jetpack Compose. My journey in tech started with a fascination for how things work under the hood, leading me to become a Linux enthusiast and a proficient Android developer.
+</p>
 
-
-### Let's get connected 🤝
+### 🤝 Let's Connect
 
 <a href="https://www.youtube.com/c/TechnoTrove"><img align="left" alt="youtube" width="40px" height="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/83669035/193305703-404e18ae-7198-4473-8654-cef16349eb7a.png"/></a>
 <a href="https://www.linkedin.com/in/sagnikmukherjee/"><img align="left" alt="linkedin" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"/></a>
