@@ -4,34 +4,25 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=200&color=EBF724&width=435&lines=Native+Android+Dev;Content+Creator;Freelancer" alt="Typing SVG" /></a></p>
 
 
-<p align="left">
-      <a href="https://www.youtube.com/c/technotrove?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCHYT8CbDk-oCBaVdyjIePNQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/technotrove">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCHYT8CbDk-oCBaVdyjIePNQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> <br>
-  
-  <a href="https://github.com/itssagnikmukherjee?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/itssagnikmukherjee?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  
-   </p>
+# 🚀 About Me
 
-## 🚀 About Me
-<p>
-      I'm a Computer Science student with a deep passion for Android development, Linux systems, and cutting-edge technologies. Currently, I'm in my third year of engineering, and I’ve been honing my skills in Kotlin and Jetpack Compose. My journey in tech started with a fascination for how things work under the hood, leading me to become a Linux enthusiast and a proficient Android developer.
-</p>
+👨‍💻 **Android Developer | Linux Enthusiast | Content Creator**<br>
+🎓 Currently in my third year of engineering (Information Technology)<br>
+🌟 Passionate about creating innovative solutions and exploring new technologies
 
-## 🤝 Let's Connect
+# 💻 Tech Stack
+- ### Languages 💻 <br>
+  ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
 
-### Languages 💻
+# 🤝 Let's Connect
 
-<p>
-<img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
- <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
- <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-      
- </p>
+
+
+### 
+(https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
  
  <p>
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
