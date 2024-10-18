@@ -1,7 +1,4 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<h1 align="center"><font family="outfit">Hi there👋 <a href="https://www.linkedin.com/in/sagnikmukherjee/">Sagnik Mukherjee</a> this side,</font></h1>
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=200&color=EBF724&width=435&lines=Native+Android+Dev;Content+Creator;Freelancer" alt="Typing SVG" /></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&duration=2000&pause=200&color=EBF724&width=435&lines=Native+Android+Developer;Content+Creator;Freelancer" alt="Typing SVG" /></a></p>
 
 
 ![snake gif](https://github.com/itssagnikmukherjee/itssagnikmukherjee/blob/output/github-contribution-grid-snake-dark.svg)
