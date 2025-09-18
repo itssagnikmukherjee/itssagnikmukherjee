@@ -73,11 +73,11 @@
 
 <table border="0">
   <tr>
-    <td align="center"><img align="center" style="width:100%;" src="https://github-readme-stats.vercel.app/api?username=itssagnikmukherjee&show_icons=true&theme=dark&locale=en" alt="" /></td>
-    <td align="center"><img style="width:100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=itssagnikmukherjee&show_icons=true&theme=dark&locale=en&layout=compact" alt="" /></td>
+    <td align="center"><img width="598" height="250" alt="image" src="https://github.com/user-attachments/assets/c16c36e9-895e-4760-a537-1bf6ade086bc"/></td>
+    <td align="center"><img style="width:100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssagnikmukherjee&layout=donut&theme=tokyonight" alt="" /></td>
   </tr>
       <tr>
             <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itssagnikmukherjee&theme=tokyonight"></td>
-            <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=itssagnikmukherjee&theme=tokyonight"></td>
+            <td><img src="https://awesome-github-stats.azurewebsites.net/user-stats/itssagnikmukherjee?cardType=level-alternate&theme=tokyonight&preferLogin=false"></td>
       </tr>
 </table>
