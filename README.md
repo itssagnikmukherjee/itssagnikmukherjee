@@ -1,5 +1,5 @@
 <center>
-  <a href="https://git.io/typing-svg" align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Outfit&duration=2000&pause=200&color=25C647&width=435&lines=&nbsp;&nbsp;&nbsp;Native+Android+Developer;&nbsp;&nbsp;&nbsp;Content+Creator;&nbsp;&nbsp;&nbsp;Freelancer" alt="Typing SVG" style="height:100px;width:100%;align-items:center;"/></a>
+  <a href="https://git.io/typing-svg" align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Outfit&duration=2000&pause=200&color=25C647&width=435&lines=&nbsp;&nbsp;&nbsp;Cyber+Security+Enthusiast;&nbsp;&nbsp;&nbsp;CTF+Player;&nbsp;&nbsp;&nbsp" alt="Typing SVG" style="height:100px;width:100%;align-items:center;"/></a>
 </center>
 
 ![snake gif](https://github.com/itssagnikmukherjee/itssagnikmukherjee/blob/output/github-contribution-grid-snake-dark.svg)
@@ -7,8 +7,8 @@
 
 # 🚀 About Me
 
-👨‍💻 **Android Developer | Linux Enthusiast | Content Creator**<br>
-🎓 Currently in my third year of engineering (Information Technology)<br>
+👨‍💻 **CyberSec |ex Android Dev | Linux Enthusiast**<br>
+🎓 Currently in my final year of engineering (Information Technology)<br>
 🌟 Passionate about creating innovative solutions and exploring new technologies
 
 <br>
